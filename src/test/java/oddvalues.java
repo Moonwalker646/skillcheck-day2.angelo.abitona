@@ -16,7 +16,7 @@ public class oddvalues {
         }
         displayOdd(numbers);
         getOddValues(numbers);
-        scan.close();
+
 
     }
     public static void getOddValues(int[] numbers)
